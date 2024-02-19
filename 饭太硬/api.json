@@ -1,5 +1,5 @@
 {
-    "spider": "http://akun.work.gd/upload/饭太硬/spider.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -218,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/nmys.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/nmys.json"
         },
         {
             "key": "Xinsj",
@@ -268,8 +268,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/jp.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/jp.js"
         },
         {
             "key": "4KHDR",
@@ -278,8 +278,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/4khdr.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/4khdr.js"
         },
         {
             "key": "新6V",
@@ -353,8 +353,8 @@
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/88看球.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "hhttps://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/88看球.js",
             "style": {
                 "type": "list"
             },
@@ -366,8 +366,8 @@
             "key": "csp_qiumi",
             "name": "⚽ Jrs┃球迷",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/jrk.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/jrk.js",
             "style": {
                 "type": "list"
             },
@@ -379,8 +379,8 @@
             "key": "csp_310直播",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/310直播.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/310直播.js",
             "style": {
                 "type": "list"
             },
@@ -399,7 +399,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/企鹅直播.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/企鹅直播.json"
         },
         {
             "key": "MV_vod",
@@ -417,8 +417,8 @@
             "key": "酷奇js",
             "name": "🎤酷奇┃MV",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/酷奇MV.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/酷奇MV.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -431,8 +431,8 @@
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/虎牙直播.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/虎牙直播.js",
             "style": {
                 "type": "list"
             },
@@ -444,8 +444,8 @@
             "key": "csp_XYQBiu_斗鱼",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/斗鱼直播.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/斗鱼直播.js",
             "style": {
                 "type": "list"
             },
@@ -457,8 +457,8 @@
             "key": "csp_聚短视频",
             "name": "📽️聚短┃视频",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/短视频.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -467,8 +467,8 @@
             "key": "有声小说js",
             "name": "🎧有声┃小说",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/有声小说吧.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -576,7 +576,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/bilibili.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/bilibili.json"
         },
         {
             "key": "Biliych",
@@ -590,14 +590,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/biliych.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/biliych.json"
         },
         {
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "http://akun.work.gd/upload/饭太硬/api/drpy2.min.js",
-            "ext": "http://akun.work.gd/upload/饭太硬/js/兔小贝.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/js/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -618,7 +618,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/少儿教育.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -632,7 +632,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/小学课堂.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬饭太硬/json/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -646,7 +646,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/初中课堂.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -660,7 +660,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://akun.work.gd/upload/饭太硬/json/高中课堂.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/json/高中课堂.json"
         },
         {
             "key": "fan",
@@ -913,13 +913,13 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://akun.work.gd/upload/饭太硬/lives/live.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/lives/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "ipv6",
             "type": 0,
-            "url": "http://akun.work.gd/upload/饭太硬/lives/ipv6.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/lives/ipv6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]
