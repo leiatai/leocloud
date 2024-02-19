@@ -1,5 +1,5 @@
 {
-	"spider":"http://akun.work.gd/upload/jar/pg.jar",
+	"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/jar/pg.jar",
 	"sites":[
 		{
 			"key": "酷狗",
@@ -34,12 +34,12 @@
 		},
 		{
 			"key": "豆瓣",
-			"name": "豆瓣",
+			"name": "LEO豆瓣",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
 			"changeable": 1,
-			"ext": "http://akun.work.gd/upload/lib/douban.json"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/douban.json"
 		},
 		{
 			"key": "996影院",
@@ -84,9 +84,9 @@
 				"cookie":""
 			}
 		},
-		{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$http://akun.work.gd/upload/lib/wogg.json"},
+		{"key":"Wogg","name":"玩偶L哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/wogg.json"},
 		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$http://akun.work.gd/upload/lib/wogg.json"},
-		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$http://akun.work.gd/upload/lib/wogg.json"},
+		{"key":"Wobg","name":"玩偶L表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/wogg.json"},
 		{"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$null$$$1"},
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
@@ -94,8 +94,8 @@
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://akun.work.gd/upload/lib/tokenm.json$$$null$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://www.libvio.vip$$$null"},
 		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json"},
-		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
-		{"key":"盘搜","name":"盘搜|阿里","type":3,"api":"csp_PanSou","timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json"},
+		{"key":"易搜","name":"易L搜|网盘","type":3,"api":"csp_YiSo","timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
+		{"key":"盘搜","name":"盘L搜|阿里","type":3,"api":"csp_PanSou","timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/tokenm.json"},
 		{"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json"},
 		{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json"},
 		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
@@ -113,8 +113,8 @@
 			"ext": "null$$$1"
 		},
 		{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json" },
-		{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json" },
-		{"key":"找資源", "name":"阿里|找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"http://akun.work.gd/upload/lib/tokenm.json$$$user$$$pass" },
+		{"key":"Gitcafe", "name": "阿L里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/tokenm.json" },
+		{"key":"找資源", "name":"阿L里|找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/lib/tokenm.json$$$user$$$pass" },
 		{
 			"key": "新6V",
 			"name": "新6V|网盘",
