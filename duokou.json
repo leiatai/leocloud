@@ -1,0 +1,52 @@
+{
+    "urls": [
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/饭太硬/api.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/小米/api.json",
+            "name": "小米"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/体育/TY.json",
+            "name": "看个球儿"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/jsm.json",
+            "name": "PG"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/香雅情XYQ/api.json",
+            "name": "香雅情XYQ"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/18cj.json",
+            "name": "111影院"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/菜妮丝/api.json",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/骚零/api.json",
+            "name": "骚零"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/短剧频道/api.json",
+            "name": "短剧频道"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/少儿频道/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/动漫频道/api.json",
+            "name": "动漫频道"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/BIBI/cbi.json",
+            "name": "B站频道"
+        }
+    ]
+}
