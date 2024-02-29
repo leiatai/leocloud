@@ -47,6 +47,18 @@
             }
         },
         {
+           "key": "Taohuazu",
+           "name": "LEO｜桃花族",
+           "type": 3,
+           "api": "csp_Taohuazu",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/PG/main/pg.jar",
+           "searchable": 1,
+           "quickSearch": 1,
+           "changeable": 1,
+           "filterable": 0,
+           "timeout": 60,
+           "ext": "http://thze.cc"},
+        {
             "key": "18AV",
             "name": "🔞18AV",
             "type": 3,
