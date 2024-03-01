@@ -64,6 +64,7 @@
             "type": 3,
             "api": "csp_Eighteen",
             "searchable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/jar/Yoursmile2.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.485
