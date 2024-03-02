@@ -192,8 +192,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": {
-        "server": "socks5://192.168.31.86:1082"
+            "ext": {socks5://192.168.31.86:1082"
         },
         {
             "key": "csp_JavDb",
