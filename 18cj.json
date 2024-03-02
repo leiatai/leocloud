@@ -57,7 +57,10 @@
            "changeable": 1,
            "filterable": 0,
            "timeout": 60,
-           "ext": "http://thze.cc"},
+           "ext": {
+        "original": "http://thze.cc",
+        "proxy": "http://192.168.31.86:1082"
+     },
         {
             "key": "18AV",
             "name": "🔞18AV",
@@ -191,7 +194,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "socks5://192.168.101.1:1080"
+            "ext": "socks5://192.168.31.86:1082"
         },
         {
             "key": "csp_JavDb",
