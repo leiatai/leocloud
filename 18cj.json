@@ -190,7 +190,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "socks5://192.168.101.1:1080"
         },
         {
             "key": "csp_JavDb",
