@@ -57,9 +57,7 @@
            "changeable": 1,
            "filterable": 0,
            "timeout": 60,
-           "ext": {
-        "original": "http://thze.cc",
-        "proxy": "socks5://192.168.31.86:1082"
+           "ext": {"socks5://192.168.31.86:1082"
      },
         {
             "key": "18AV",
