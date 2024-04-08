@@ -51,7 +51,7 @@
            "name": "LEO｜桃花族",
            "type": 3,
            "api": "csp_Taohuazu",
-           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leiatai/leocloud/main/pg.jar",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/pg.jar",
            "searchable": 1,
            "quickSearch": 1,
            "changeable": 1,
